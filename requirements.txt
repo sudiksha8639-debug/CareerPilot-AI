@@ -1,0 +1,4 @@
+
+PyMuPDF
+huggingface_hub
+sentence-transformers
