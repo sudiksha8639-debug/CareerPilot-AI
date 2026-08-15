@@ -92,6 +92,3 @@ B.Tech CSE (AI)
 Indira Gandhi Delhi Technological University for Women
 
 Stark AI — SSSC'26 | Final Capstone Project
-
-
-That's it. **This is the one I'd use.** It gives someone opening your GitHub enough information to immediately understand what CareerPilot is without making the README unnecessarily huge.
